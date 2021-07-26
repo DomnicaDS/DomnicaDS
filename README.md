@@ -72,13 +72,11 @@ Read more about what inspires me below:
       </ul>
   <li>Check out my projects</li>
   <ul>
-    <li> Part of the IBM Data Science Specialization: 
+    <li> Part of the IBM Data Science Specialization course-work: </li>
       <ul> <li> <a href="https://github.com/DomnicaDS/Stock-analysis-assignment">Historical analysis of stock and revenue data</a></li>
         <li><a href="https://github.com/DomnicaDS/House-sale-price-assignment">House sale price prediction</a></li>
         <li><a href="https://github.com/DomnicaDS/Loans-prediction-assignment">Loan status prediction<a></li>
         <li><a href="https://github.com/DomnicaDS/IBM-Capstone-Project">Applied Data Science Capstone Project </a></li>
-      </ul>
-     <li><a href="https://github.com/DomnicaDS/SQL-assignment">Distributed Computing with Spark SQL</a></li>
       </ul>
   </ul>
 </p>
